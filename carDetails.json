@@ -1,0 +1,112 @@
+{
+  "CarBrands": {
+    "1": "Toyoto",
+    "2": "Hyundai",
+    "3": "Kia",
+    "4": "BMW"
+  },
+  "Toyoto": {
+    "1": "Toyota Camry",
+    "2": "Toyota Corolla",
+    "3": "Toyota Prius",
+    "4": "Toyota RAV4"
+  },
+  "Hyundai": {
+    "1": "Hyundai Sonata",
+    "2": "Hyundai Elantra",
+    "3": "Hyundai Tucson",
+    "4": "Hyundai Santa Fe"
+  },
+  "Kia": {
+    "1": "Kia Optima",
+    "2": "Kia Soul",
+    "3": "Kia Sportage",
+    "4": "Kia Seltos"
+  },
+  "BMW": {
+    "1": "BMW 3 Series",
+    "2": "BMW 5 Series",
+    "3": "BMW X3",
+    "4": "BMW X5"
+  },
+  "Toyota Camry": {
+    "Fuel Capacity": "15.8 gal",
+    "Engine Type": "Inline-4 / V6",
+    "Displacement": "2.5L / 3.5L"
+  },
+  "Toyota Corolla": {
+    "Fuel Capacity": "13.2 gal",
+    "Engine Type": "Inline-4",
+    "Displacement": "1.8L"
+  },
+  "Toyota Prius": {
+    "Fuel Capacity": "11.3 gal",
+    "Engine Type": "Hybrid",
+    "Displacement": "1.8L"
+  },
+  "Toyota RAV4": {
+    "Fuel Capacity": "14.5 gal",
+    "Engine Type": "Inline-4",
+    "Displacement": "2.5L"
+  },
+  "Hyundai Sonata": {
+    "Fuel Capacity": "15.9 gal",
+    "Engine Type": "Inline-4 / Inline-6",
+    "Displacement": "2.5L / 3.5L"
+  },
+  "Hyundai Elantra": {
+    "Fuel Capacity": "14 gal",
+    "Engine Type": "Inline-4",
+    "Displacement": "2.0L / 2.5L"
+  },
+  "Hyundai Tucson": {
+    "Fuel Capacity": "14.3 gal",
+    "Engine Type": "Inline-4 / Inline-4 Turbo",
+    "Displacement": "2.0L / 2.4L"
+  },
+  "Hyundai Santa Fe": {
+    "Fuel Capacity": "18.8 gal",
+    "Engine Type": "Inline-4 / V6",
+    "Displacement": "2.5L / 3.5L"
+  },
+  "Kia Optima": {
+    "Fuel Capacity": "15.9 gal",
+    "Engine Type": "Inline-4 / Inline-4 Turbo",
+    "Displacement": "2.4L / 1.6L"
+  },
+  "Kia Soul": {
+    "Fuel Capacity": "14.3 gal",
+    "Engine Type": "Inline-4",
+    "Displacement": "2.0L"
+  },
+  "Kia Sportage": {
+    "Fuel Capacity": "16.4 gal",
+    "Engine Type": "Inline-4 / Inline-4 Turbo",
+    "Displacement": "2.4L / 2.0L"
+  },
+  "Kia Seltos": {
+    "Fuel Capacity": "13.2 gal",
+    "Engine Type": "Inline-4",
+    "Displacement": "2.0L"
+  },
+  "BMW 3 Series": {
+    "Fuel Capacity": "15.6 gal",
+    "Engine Type": "Inline-4 / Inline-6",
+    "Displacement": "2.0L / 3.0L"
+  },
+  "BMW 5 Series": {
+    "Fuel Capacity": "18.0 gal",
+    "Engine Type": "Inline-4 / Inline-6 / V8",
+    "Displacement": "2.0L / 3.0L / 4.4L"
+  },
+  "BMW X3": {
+    "Fuel Capacity": "17.2 gal",
+    "Engine Type": "Inline-4 / Inline-6",
+    "Displacement": "2.0L / 3.0L"
+  },
+  "BMW X5": {
+    "Fuel Capacity": "21.9 gal",
+    "Engine Type": "Inline-6 / V8",
+    "Displacement": "3.0L / 4.4L"
+  }
+}
